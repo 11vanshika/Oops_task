@@ -1,0 +1,8 @@
+C:\project\Hospital_Oops\Hospital_Oops\bin\Debug\Hospital_Oops.exe.config
+C:\project\Hospital_Oops\Hospital_Oops\bin\Debug\Hospital_Oops.exe
+C:\project\Hospital_Oops\Hospital_Oops\bin\Debug\Hospital_Oops.pdb
+C:\project\Hospital_Oops\Hospital_Oops\obj\Debug\Hospital_Oops.csproj.AssemblyReference.cache
+C:\project\Hospital_Oops\Hospital_Oops\obj\Debug\Hospital_Oops.csproj.SuggestedBindingRedirects.cache
+C:\project\Hospital_Oops\Hospital_Oops\obj\Debug\Hospital_Oops.csproj.CoreCompileInputs.cache
+C:\project\Hospital_Oops\Hospital_Oops\obj\Debug\Hospital_Oops.exe
+C:\project\Hospital_Oops\Hospital_Oops\obj\Debug\Hospital_Oops.pdb
